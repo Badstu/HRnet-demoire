@@ -9,7 +9,7 @@ fire==0.2.1
 idna==2.8
 imageio==2.6.1
 ipdb==0.12.3
-ipython==7.10.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.15.1
 jsonpatch==1.24
